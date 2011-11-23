@@ -1,9 +1,0 @@
-.DS_Store
-proto/**/tmp/
-proto/**/*.iml
-proto/**/eclipse/
-proto/**/.project
-proto/**/.classpath
-proto/**/nbproject/
-proto/**/.settings/
-/proto/wicket/entraides/target/
